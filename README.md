@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajasingh10&label=Profile%20views&color=0e75b6&style=flat" alt="rajasingh10" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajasingh10&theme=nord" alt="rajasingh10" /></a> </p>
-<img align="right" alt="Coder" width="500" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966">
+<img align="right" alt="Coder" width="350" src="https://www.venuexplorer.com.sg/uploads/Working%20in%20progresss.gif">
 
 - 🌱 I’m currently Studying at **Acharya institute of technology**
 
